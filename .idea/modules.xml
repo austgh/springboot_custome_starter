@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot_custome_starter.iml" filepath="$PROJECT_DIR$/springboot_custome_starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingxueyuan-spring-boot-starter-autoconfigurer/tulingxueyuan_spring_boot_autoconfigure.iml" filepath="$PROJECT_DIR$/tulingxueyuan-spring-boot-starter-autoconfigurer/tulingxueyuan_spring_boot_autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingxueyuan‐spring‐boot‐starter/tulingxueyuan_spring_boot_starter.iml" filepath="$PROJECT_DIR$/tulingxueyuan‐spring‐boot‐starter/tulingxueyuan_spring_boot_starter.iml" />
+    </modules>
+  </component>
+</project>

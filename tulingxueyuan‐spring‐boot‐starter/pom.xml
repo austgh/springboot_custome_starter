@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+ <parent>
+     <artifactId>springboot_custome_starter</artifactId>
+     <groupId>com.tulingxueyuan.springboot</groupId>
+     <version>0.0.1-SNAPSHOT</version>
+ </parent>
+ <modelVersion>4.0.0</modelVersion>
+   <artifactId>gh_spring_boot_starter</artifactId>
+  <description>启动器</description>
+
+
+<!--   <name>tulingxueyuan-spring-boot-starter</name> -->
+  <dependencies>
+      <dependency>
+          <groupId>com.tulingxueyuan.springboot</groupId>
+          <artifactId>gh_spring_boot_autoconfigure</artifactId>
+          <version>0.0.1-SNAPSHOT</version>
+      </dependency>
+  </dependencies>
+
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tulingxueyuan_spring_boot_autoconfigure" />
+        <module name="tulingxueyuan_spring_boot_starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot_custome_starter" target="1.8" />
+      <module name="tulingxueyuan_spring_boot_autoconfigure" target="1.8" />
+      <module name="tulingxueyuan_spring_boot_starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tulingxueyuan_spring_boot_autoconfigure" options="-parameters" />
+      <module name="tulingxueyuan_spring_boot_starter" options="-parameters" />
+    </option>
+  </component>
+</project>
